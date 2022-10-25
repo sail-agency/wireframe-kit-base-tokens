@@ -1,74 +1,72 @@
 {
-  "wk_documentation": {
-    "unit-050": {
-      "value": "{unit-100}*0.5",
-      "type": "spacing"
+  "unit-050": {
+    "value": "{unit-100}*0.5",
+    "type": "spacing"
+  },
+  "unit-100": {
+    "value": "8px",
+    "type": "spacing"
+  },
+  "unit-200": {
+    "value": "{unit-100}*2",
+    "type": "spacing"
+  },
+  "unit-300": {
+    "value": "{unit-100}*3",
+    "type": "spacing"
+  },
+  "unit-400": {
+    "value": "{unit-100}*4",
+    "type": "spacing"
+  },
+  "unit-500": {
+    "value": "{unit-100}*5",
+    "type": "spacing"
+  },
+  "unit-600": {
+    "value": "{unit-100}*6",
+    "type": "spacing"
+  },
+  "unit-700": {
+    "value": "{unit-100}*8",
+    "type": "spacing"
+  },
+  "unit-800": {
+    "value": "{unit-100}*10",
+    "type": "spacing"
+  },
+  "unit-900": {
+    "value": "{unit-100}*16",
+    "type": "spacing"
+  },
+  "spacing": {
+    "primary": {
+      "value": "#477bff",
+      "type": "color"
     },
-    "unit-100": {
-      "value": "8px",
-      "type": "spacing"
+    "subtle": {
+      "value": "#C3D4FF",
+      "type": "color"
+    }
+  },
+  "error": {
+    "dark": {
+      "value": "#450101",
+      "type": "color"
     },
-    "unit-200": {
-      "value": "{unit-100}*2",
-      "type": "spacing"
+    "subtle": {
+      "value": "#ffd7d7",
+      "type": "color"
+    }
+  },
+  "wip": {
+    "dark": {
+      "value": "#441900",
+      "type": "color"
     },
-    "unit-300": {
-      "value": "{unit-100}*3",
-      "type": "spacing"
-    },
-    "unit-400": {
-      "value": "{unit-100}*4",
-      "type": "spacing"
-    },
-    "unit-500": {
-      "value": "{unit-100}*5",
-      "type": "spacing"
-    },
-    "unit-600": {
-      "value": "{unit-100}*6",
-      "type": "spacing"
-    },
-    "unit-700": {
-      "value": "{unit-100}*8",
-      "type": "spacing"
-    },
-    "unit-800": {
-      "value": "{unit-100}*10",
-      "type": "spacing"
-    },
-    "unit-900": {
-      "value": "{unit-100}*16",
-      "type": "spacing"
-    },
-    "spacing": {
-      "primary": {
-        "value": "#477bff",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "#C3D4FF",
-        "type": "color"
-      }
-    },
-    "error": {
-      "dark": {
-        "value": "#450101",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "#ffd7d7",
-        "type": "color"
-      }
-    },
-    "wip": {
-      "dark": {
-        "value": "#441900",
-        "type": "color"
-      },
-      "subtle": {
-        "value": "#FFE8DB",
-        "type": "color"
-      }
+    "subtle": {
+      "value": "#FFE8DB",
+      "type": "color"
     }
   }
 }

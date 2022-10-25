@@ -1,0 +1,26 @@
+{
+  "wk_brand": {
+    "brand-primary": {
+      "value": "#0028FF",
+      "type": "color"
+    },
+    "fontFamilies": {
+      "bagoss-standard-trial": {
+        "value": "Bagoss Standard TRIAL",
+        "type": "fontFamilies"
+      },
+      "inter-display": {
+        "value": "Inter Display",
+        "type": "fontFamilies"
+      }
+    },
+    "subtle": {
+      "value": "#E6ECFF",
+      "type": "color"
+    },
+    "dark": {
+      "value": "#010E58",
+      "type": "color"
+    }
+  }
+}

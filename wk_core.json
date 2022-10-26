@@ -133,11 +133,11 @@
       }
     },
     "font-size-xs": {
-      "value": "{wk-core.font-size-s}/{tools.scale}",
+      "value": "{wk-core.font-size-s}/{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-s": {
-      "value": "{wk-core.font-size-default}/{tools.scale}",
+      "value": "{wk-core.font-size-default}/{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-default": {
@@ -145,39 +145,39 @@
       "type": "fontSizes"
     },
     "font-size-lg": {
-      "value": "{wk-core.font-size-default}*{tools.scale}",
+      "value": "{wk-core.font-size-default}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-2xl": {
-      "value": "{wk-core.font-size-lg}*{tools.scale}",
+      "value": "{wk-core.font-size-lg}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-3xl": {
-      "value": "{wk-core.font-size-2xl}*{tools.scale}",
+      "value": "{wk-core.font-size-2xl}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-4xl": {
-      "value": "{wk-core.font-size-3xl}*{tools.scale}",
+      "value": "{wk-core.font-size-3xl}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-5xl": {
-      "value": "{wk-core.font-size-4xl}*{tools.scale}",
+      "value": "{wk-core.font-size-4xl}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-6xl": {
-      "value": "{wk-core.font-size-5xl}*{tools.scale}",
+      "value": "{wk-core.font-size-5xl}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-7xl": {
-      "value": "{wk-core.font-size-6xl}*{tools.scale}",
+      "value": "{wk-core.font-size-6xl}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-8xl": {
-      "value": "{wk-core.font-size-7xl}*{tools.scale}",
+      "value": "{wk-core.font-size-7xl}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-9xl": {
-      "value": "{wk-core.font-size-8xl}*{tools.scale}",
+      "value": "{wk-core.font-size-8xl}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "case-default": {

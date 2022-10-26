@@ -254,47 +254,91 @@
       "value": "160%",
       "type": "lineHeights"
     },
-    "unit-050": {
+    "spacing-unit-050": {
+      "value": "{wk-core.size-unit-050}",
+      "type": "spacing"
+    },
+    "spacing-unit-100": {
+      "value": "{wk-core.size-unit-100}",
+      "type": "spacing"
+    },
+    "spacing-unit-150": {
+      "value": "{wk-core.size-unit-150}",
+      "type": "spacing"
+    },
+    "spacing-unit-200": {
+      "value": "{wk-core.size-unit-200}",
+      "type": "spacing"
+    },
+    "spacing-unit-300": {
+      "value": "{wk-core.size-unit-300}",
+      "type": "spacing"
+    },
+    "spacing-unit-400": {
+      "value": "{wk-core.size-unit-400}",
+      "type": "spacing"
+    },
+    "spacing-unit-500": {
+      "value": "{wk-core.size-unit-500}",
+      "type": "spacing"
+    },
+    "spacing-unit-600": {
+      "value": "{wk-core.size-unit-600}",
+      "type": "spacing"
+    },
+    "spacing-unit-700": {
+      "value": "{wk-core.size-unit-700}",
+      "type": "spacing"
+    },
+    "spacing-unit-800": {
+      "value": "{wk-core.size-unit-800}",
+      "type": "spacing"
+    },
+    "spacing-unit-900": {
+      "value": "{wk-core.size-unit-900}",
+      "type": "spacing"
+    },
+    "size-unit-050": {
       "value": "{wk-core.unit-100}*0.5",
       "type": "sizing"
     },
-    "unit-100": {
+    "size-unit-100": {
       "value": "8px",
       "type": "sizing"
     },
-    "unit-150": {
+    "size-unit-150": {
       "value": "{wk-core.unit-100}*1.5",
       "type": "sizing"
     },
-    "unit-200": {
+    "size-unit-200": {
       "value": "{wk-core.unit-100}*2",
       "type": "sizing"
     },
-    "unit-300": {
+    "size-unit-300": {
       "value": "{wk-core.unit-100}*3",
       "type": "sizing"
     },
-    "unit-400": {
+    "size-unit-400": {
       "value": "{wk-core.unit-100}*4",
       "type": "sizing"
     },
-    "unit-500": {
+    "size-unit-500": {
       "value": "{wk-core.unit-100}*5",
       "type": "sizing"
     },
-    "unit-600": {
+    "size-unit-600": {
       "value": "{wk-core.unit-100}*6",
       "type": "sizing"
     },
-    "unit-700": {
+    "size-unit-700": {
       "value": "{wk-core.unit-100}*8",
       "type": "sizing"
     },
-    "unit-800": {
+    "size-unit-800": {
       "value": "{wk-core.unit-100}*10",
       "type": "sizing"
     },
-    "unit-900": {
+    "size-unit-900": {
       "value": "{wk-core.unit-100}*16",
       "type": "sizing"
     }

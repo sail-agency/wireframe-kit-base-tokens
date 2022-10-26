@@ -123,7 +123,8 @@
     "tools": {
       "scale": {
         "value": "1.25",
-        "type": "fontSizes"
+        "type": "fontSizes",
+        "description": "The integer of multiplication for type scales. Default is 1.25, and you can find others at https://typescales.com"
       },
       "base": {
         "value": "16",
@@ -262,7 +263,7 @@
       "type": "sizing"
     },
     "unit-150": {
-      "value": "{wk-core.unit100}*1.5",
+      "value": "{wk-core.unit-100}*1.5",
       "type": "sizing"
     },
     "unit-200": {

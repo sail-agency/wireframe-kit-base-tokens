@@ -12,12 +12,20 @@
     "type": "color"
   },
   "fontFamilies": {
-    "bagoss-standard-trial": {
+    "font-family-heading": {
       "value": "Bagoss Standard TRIAL",
       "type": "fontFamilies"
     },
-    "inter-display": {
+    "font-family-subheading": {
       "value": "Inter Display",
+      "type": "fontFamilies"
+    },
+    "font-family-content": {
+      "value": "Inter",
+      "type": "fontFamilies"
+    },
+    "font-family-code": {
+      "value": "Fira Code",
       "type": "fontFamilies"
     }
   }

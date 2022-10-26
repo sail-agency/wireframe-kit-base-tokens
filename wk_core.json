@@ -137,15 +137,15 @@
       "type": "fontSizes"
     },
     "font-size-s": {
-      "value": "{wk-core.font-size-default}/{wk-core.tools.scale}",
+      "value": "{wk-core.font-size-md}/{wk-core.tools.scale}",
       "type": "fontSizes"
     },
-    "font-size-default": {
+    "font-size-md": {
       "value": "16",
       "type": "fontSizes"
     },
     "font-size-lg": {
-      "value": "{wk-core.font-size-default}*{wk-core.tools.scale}",
+      "value": "{wk-core.font-size-md}*{wk-core.tools.scale}",
       "type": "fontSizes"
     },
     "font-size-2xl": {

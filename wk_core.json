@@ -299,7 +299,7 @@
       "type": "spacing"
     },
     "size-unit-050": {
-      "value": "{wk-core.unit-100}*0.5",
+      "value": "{wk-core.size-unit-100}*0.5",
       "type": "sizing"
     },
     "size-unit-100": {
@@ -307,39 +307,39 @@
       "type": "sizing"
     },
     "size-unit-150": {
-      "value": "{wk-core.unit-100}*1.5",
+      "value": "{wk-core.size-unit-100}*1.5",
       "type": "sizing"
     },
     "size-unit-200": {
-      "value": "{wk-core.unit-100}*2",
+      "value": "{wk-core.size-unit-100}*2",
       "type": "sizing"
     },
     "size-unit-300": {
-      "value": "{wk-core.unit-100}*3",
+      "value": "{wk-core.size-unit-100}*3",
       "type": "sizing"
     },
     "size-unit-400": {
-      "value": "{wk-core.unit-100}*4",
+      "value": "{wk-core.size-unit-100}*4",
       "type": "sizing"
     },
     "size-unit-500": {
-      "value": "{wk-core.unit-100}*5",
+      "value": "{wk-core.size-unit-100}*5",
       "type": "sizing"
     },
     "size-unit-600": {
-      "value": "{wk-core.unit-100}*6",
+      "value": "{wk-core.size-unit-100}*6",
       "type": "sizing"
     },
     "size-unit-700": {
-      "value": "{wk-core.unit-100}*8",
+      "value": "{wk-core.size-unit-100}*8",
       "type": "sizing"
     },
     "size-unit-800": {
-      "value": "{wk-core.unit-100}*10",
+      "value": "{wk-core.size-unit-100}*10",
       "type": "sizing"
     },
     "size-unit-900": {
-      "value": "{wk-core.unit-100}*16",
+      "value": "{wk-core.size-unit-100}*16",
       "type": "sizing"
     }
   }

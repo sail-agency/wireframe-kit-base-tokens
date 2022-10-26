@@ -129,7 +129,7 @@
       "base": {
         "value": "16",
         "type": "fontSizes",
-        "description": "Used only in creating font-sizes. Changing this will change <b>all</b> <i>font-size</i> tokens."
+        "description": "Used only in creating font-sizes. Changing this will change _all_ font-size tokens."
       }
     },
     "font-size-xs": {

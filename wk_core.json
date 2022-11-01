@@ -54,7 +54,7 @@
         "type": "color"
       },
       "error-100": {
-        "value": "FFCFCF",
+        "value": "#FFCFCF",
         "type": "color"
       },
       "error-500": {

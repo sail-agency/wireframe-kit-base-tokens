@@ -48,6 +48,24 @@
       "value": "#000",
       "type": "color"
     },
+    "error": {
+      "error-base": {
+        "value": "#FF3636",
+        "type": "color"
+      },
+      "error-100": {
+        "value": "FFCFCF",
+        "type": "color"
+      },
+      "error-500": {
+        "value": "{wk-core.error.error-base}",
+        "type": "color"
+      },
+      "error-900": {
+        "value": "#661616",
+        "type": "color"
+      }
+    },
     "border-radius-circle": {
       "value": "50%",
       "type": "borderRadius"

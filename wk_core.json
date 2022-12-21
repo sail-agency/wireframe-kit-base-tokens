@@ -363,6 +363,17 @@
     "size-unit-900": {
       "value": "{wk-core.size-unit-100}*16",
       "type": "sizing"
+    },
+    "outline.focus-within": {
+      "value": {
+        "x": "0",
+        "y": "0",
+        "blur": "0",
+        "spread": "4",
+        "color": "{color.gray-600}",
+        "type": "dropShadow"
+      },
+      "type": "boxShadow"
     }
   }
 }

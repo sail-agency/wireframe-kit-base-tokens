@@ -1,7 +1,7 @@
 {
   "wk-core": {
     "transparent": {
-      "value": "rgba(255,255,255,0)",
+      "value": "rgba(255,255,255,0.01)",
       "type": "color"
     },
     "color-gray-000": {

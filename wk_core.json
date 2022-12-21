@@ -367,7 +367,7 @@
       "value": "{wk-core.size-unit-100}*16",
       "type": "sizing"
     },
-    "outline.focus-within": {
+    "focus-within": {
       "value": {
         "x": "0",
         "y": "0",

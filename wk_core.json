@@ -373,7 +373,7 @@
         "y": "0",
         "blur": "0",
         "spread": "4",
-        "color": "{color.gray-600}",
+        "color": "{wk-core.color.gray-600}",
         "type": "dropShadow"
       },
       "type": "boxShadow"

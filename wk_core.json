@@ -4,51 +4,51 @@
       "value": "rgba(255,255,255,0.01)",
       "type": "color"
     },
-    "color-gray-000": {
+    "gray-000": {
       "value": "#fff",
       "type": "color"
     },
-    "color-gray-050": {
+    "gray-050": {
       "value": "#f2f2f2",
       "type": "color"
     },
-    "color-gray-100": {
+    "gray-100": {
       "value": "#e6e6e6",
       "type": "color"
     },
-    "color-gray-200": {
+    "gray-200": {
       "value": "#ccc",
       "type": "color"
     },
-    "color-gray-300": {
+    "gray-300": {
       "value": "#b3b3b3",
       "type": "color"
     },
-    "color-gray-400": {
+    "gray-400": {
       "value": "#999",
       "type": "color"
     },
-    "color-gray-500": {
+    "gray-500": {
       "value": "#808080",
       "type": "color"
     },
-    "color-gray-600": {
+    "gray-600": {
       "value": "#666",
       "type": "color"
     },
-    "color-gray-700": {
+    "gray-700": {
       "value": "#4d4d4d",
       "type": "color"
     },
-    "color-gray-800": {
+    "gray-800": {
       "value": "#333",
       "type": "color"
     },
-    "color-gray-900": {
+    "gray-900": {
       "value": "#1a1a1a",
       "type": "color"
     },
-    "color-gray-1000": {
+    "gray-1000": {
       "value": "#000",
       "type": "color"
     },

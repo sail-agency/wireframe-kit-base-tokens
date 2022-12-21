@@ -59,43 +59,46 @@
       },
       "error-100": {
         "value": "#FFCFCF",
-        "type": "color"
+        "type": "color",
+        "description": "Used for input backgrounds or inverted text"
       },
       "error-500": {
         "value": "{wk-core.error.error-base}",
-        "type": "color"
+        "type": "color",
+        "description": "Used as borders or backgrounds for toggle inputs"
       },
       "error-900": {
         "value": "#661616",
-        "type": "color"
+        "type": "color",
+        "description": "Used for labels & values"
       }
     },
-    "border-radius-circle": {
-      "value": "50%",
-      "type": "borderRadius"
-    },
-    "border-radius-pill": {
-      "value": "9999",
-      "type": "borderRadius"
-    },
-    "border-radius-lg": {
-      "value": "{wk-core.border-radius-md}*1.5",
-      "type": "borderRadius"
-    },
-    "border-radius-md": {
-      "value": "8px",
-      "type": "borderRadius"
-    },
-    "border-radius-sm": {
-      "value": "{wk-core.border-radius-md}/2",
+    "border-radius-none": {
+      "value": "0",
       "type": "borderRadius"
     },
     "border-radius-xs": {
       "value": "{wk-core.border-radius-md}/4",
       "type": "borderRadius"
     },
-    "border-radius-none": {
-      "value": "0",
+    "border-radius-sm": {
+      "value": "{wk-core.border-radius-md}/2",
+      "type": "borderRadius"
+    },
+    "border-radius-md": {
+      "value": "8px",
+      "type": "borderRadius"
+    },
+    "border-radius-lg": {
+      "value": "{wk-core.border-radius-md}*1.5",
+      "type": "borderRadius"
+    },
+    "border-radius-pill": {
+      "value": "9999",
+      "type": "borderRadius"
+    },
+    "border-radius-circle": {
+      "value": "50%",
       "type": "borderRadius"
     },
     "font-weight-100": {
